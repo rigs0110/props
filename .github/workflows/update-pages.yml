@@ -16,12 +16,6 @@ jobs:
           if [ -z "${{ secrets.NOTION_DB_ID }}" ]; then echo "❌ NOTION_DB_ID missing"; exit 1; fi
           echo "✅ Secrets present"
 
-      - name: Show repo tree (quick debug)
-        run: |
-          pwd
-          ls -la
-          ls -la scripts || true
-
       - name: Setup Python
         run: |
           python3 --version
