@@ -59,3 +59,10 @@ jobs:
           git add content/*.md 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Update pages from Notion"
           git push || true
+      - name: Generate markdown pages
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_ID: ${{ secrets.NOTION_DB_ID }}
+        run: |
+          mkdir -p content
+          python3 scripts/notion_to_md.py content/
