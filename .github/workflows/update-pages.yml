@@ -65,4 +65,11 @@ jobs:
           NOTION_DB_ID: ${{ secrets.NOTION_DB_ID }}
         run: |
           mkdir -p content
-          python3 scripts/notion_to_md.py content/
+          python3 scripts/notion_to_md.py content/      - name: Commit and push generated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content
+          git commit -m "Update pages from Notion" || echo "No changes to commit"
+          git push
+
