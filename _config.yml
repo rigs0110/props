@@ -1,0 +1,6 @@
+title: "Prop Firm Discount Codes"
+description: "Current prop trading firm discount codes with simple steps and FAQs."
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
