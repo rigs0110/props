@@ -58,4 +58,4 @@ jobs:
               props = row.get("properties", {})
               title = props.get("Name", {}).get("title", [])
               name = title[0]["plain_text"] if title else "Unknown"
-              url = props.get("Landing URL", {}).get("url", ""
+              url = props.get("Landing URL", {}).get("url", "")
