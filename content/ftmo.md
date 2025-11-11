@@ -1,24 +1,30 @@
----
-title: "FTMO Discount Code — Save on FTMO"
-description: "Active FTMO discount code and how to use it."
-last_updated: 2025-11-11
-permalink: /ftmo/
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="refresh" content="3; url=https://ftmo.com/?affid=https://trader.ftmo.com/?affiliates=ghDUpjxDLBVZKwCObSPU" />
+    <title>FTMO Discount & Offer</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 60px;
+        background-color: #fafafa;
+        color: #333;
+      }
+      a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>FTMO Discount & Offer</h1>
+    <p>FTMO is a forex prop firm offering funded trading challenges and scaling programs.</p>
+    <p>Use this <strong>FTMO discount link</strong> to access exclusive offers and reduced challenge costs.</p>
+    <p>Get funded and trade up to $400,000 with FTMO.</p>
 
-# FTMO — Active Discount Code
-
-**Affiliate code:** ``  
-[Go to FTMO](https://trader.ftmo.com/?affiliates=ghDUpjxDLBVZKwCObSPU){:target="_blank" rel="noopener"}
-
-## Quick facts
-- Benefit: Discount available
-- Fee: n/a
-- Requirements: n/a
-- Best for: Traders
-
-## How to apply the code
-1. Go to the site above.
-2. Pick your challenge/account.
-3. Paste code `` at checkout.
-
-
+    <p><a href="https://ftmo.com/?affid=YOURCODE" target="_blank">👉 Click here if not redirected automatically</a></p>
+  </body>
+</html>
