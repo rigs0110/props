@@ -24,7 +24,7 @@
     <p>FTMO is a forex prop firm offering funded trading challenges and scaling programs.</p>
     <p>Use this <strong>FTMO discount link</strong> to access exclusive offers and reduced challenge costs.</p>
     <p>Get funded and trade up to $400,000 with FTMO.</p>
-
-    <p><a href="https://trader.ftmo.com/?affiliates=ghDUpjxDLBVZKwCObSPU" target="_blank">👉 Click here if not redirected automatically</a></p>
+    <p><a href="https://trader.ftmo.com/?affiliates=ghDUpjxDLBVZKwCObSPU" target="_blank">
+      👉 Click here if not redirected automatically</a></p>
   </body>
 </html>
