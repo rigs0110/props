@@ -1,14 +1,14 @@
 ---
-title: "FTMO Discount Code — Save on FTMO"
-description: "Active FTMO discount code and how to use it."
+title: "5%ers Discount Code — Save on 5%ers"
+description: "Active 5%ers discount code and how to use it."
 last_updated: 2025-11-12
-permalink: /ftmo/
+permalink: /5%ers/
 ---
 
-# FTMO — Active Discount Code
+# 5%ers — Active Discount Code
 
 **Affiliate code:** ``  
-[Go to FTMO](https://trader.ftmo.com/?affiliates=ghDUpjxDLBVZKwCObSPU){:target="_blank" rel="noopener"}
+[Go to 5%ers](https://www.the5ers.com/?afmc=12ou){:target="_blank" rel="noopener"}
 
 ## Quick facts
 - Benefit: Discount available
