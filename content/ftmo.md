@@ -1,7 +1,7 @@
 ---
 title: "FTMO Discount Code — Save on FTMO"
 description: "Active FTMO discount code and how to use it."
-last_updated: 2025-11-21
+last_updated: 2025-11-22
 permalink: /ftmo/
 ---
 
