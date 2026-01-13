@@ -1,7 +1,7 @@
 ---
 title: "5%ers Discount Code — Save on 5%ers"
 description: "Active 5%ers discount code and how to use it."
-last_updated: 2026-01-12
+last_updated: 2026-01-13
 permalink: /5%ers/
 ---
 
